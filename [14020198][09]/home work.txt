@@ -1,0 +1,15 @@
+Homework week 9	
+Given a tree in the tree.txt file as described following:
+-	The first line contains an integer number N, M indicating the number of nodes, and edges, respectively.
+-	M following lines each contains 2 integer numbers u, v indicating that u is the parent of v.
+Write a program with following functions:
+1.	Calculate the height of the tree.
+2.	Calculate the depth for each node.
+3.	Write out the order of nodes following the preorder traversal.
+4.	Write out the order of nodes following the postorder traversal.
+5.	Check if the given tree is a binary tree? If yes, write out the order of nodes following the inorder traversal.
+
+
+format:
+in theo thu tu tu cac chi so tu be cho den lon o tat ca cac kieu tham
+chi so cac dinh tu 1 -> n

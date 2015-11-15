@@ -1,0 +1,18 @@
+﻿Homework week 5
+1.	Given a list of numbers in the text file “numbers.txt”.  Your task is to write a program to sort these number increasingly using:
+-	Bubble sort algorithm // n <= 5000
+-	Insertion sort algorithm // n <= 5000
+-	Quick sort algorithm // n <= 50000
+-	Heap sort algorithm // n <= 50000
+-	Merge sort Algorithm // n <= 50000
+2.	Given a list of 106 positive integer numbers  which are smaller than 10000.  Find and implement the fastest algorithm to sort these number decreasingly. 
+
+Bài 1:
+Dữ liệu từ file numbers.txt không có số lượng phần tử ở đầu, chỉ gồm danh sách các số
+Kết quả ra màn hình danh sách các số đã được sắp xếp
+Chia ra thành 5 bài nhỏ []
+[14020198][0501] - > [0505]
+
+Bai2:
+Đầu vào từ màn hình, ra màn hình [14020198][0506]
+Dữ liệu đầu vào cả 2 bài đều là số nguyên

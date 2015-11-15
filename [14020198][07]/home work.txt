@@ -1,0 +1,26 @@
+Homework week 7
+1.	Given a computer networks with n nodes and m edges. 
+Your task is to assign each node a label such that if there is an edge from u to v, 
+the label of u is smaller than the label of v. 
+
+Input: Data from network.txt as described below:
+-	The first line contains two integer numbers n, m.
+-	m following line each lines contains 2 integer number u, v 
+	indicating that there is an edge from u to v.
+
+Output: Data is out to network.out containing a line of n labels for nodes from 1 to n.
+
+
+2.	Given n cities and m roads connecting cities. 
+The road length between two cities u, v is d[u,v] > 0.  
+Your task is to write a program to find the shortest path 
+from a starting point s to the end point e.
+
+Input:  Data is from roads.txt as described below:
+-	The first line contains four integer numbers n, m,s,e
+-	m following lines each contains 3 integer number u,v, d 
+	indicating that the length of road from u to v is d.
+
+Output: Data is out to file “roads.out” as described below:
+-	The first line contains the length of the shortest path from s to e
+-	The second line contains cities on the shortest path from s to e.

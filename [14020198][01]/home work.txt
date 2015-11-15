@@ -1,0 +1,34 @@
+﻿Homework week 1
+1.Write a C++ program to read a sentence from keyboard and print the
+ sentence in to the file “rev.txt” in reversed order. For example: “hello” -> “olleh”.
+
+2.Write a  C++ program including 2 classes: Point and Line. 
+Read four points from file “points.txt” and check if two lines are across each other.
+ If yes, write out their intersection point.
+
+3.Write a C++ program to read a list of complex numbers from the text file “complex.txt” 
+and write out to the screen the sum of the list.
+
+4.Write a C++ program to find the greatest common divisor of two integer numbers. 
+
+5.Write a C++ program to read a list of real numbers from the text file “numbers.txt” 
+and output to the file “numbers.out” the list of numbers after increasingly sorted.
+
+6.Given 5 real numbers, write a C++ program to 
+calculate the sum of the greatest and smallest numbers.
+
+Format
+
+1.Nhập tên từ bàn phím, đưa ra xâu ngược.
+2.input : x1, y1, x2, y2, x3,y3, x4,y4.
+	Output: “yes” or “ no”
+Xuất ra màn hình
+3. inp: gồm 1 số dòng, mỗi dòng 2 số nguyên a,b
+	Out : ra màn hình;
+4. 2 số nguyên kiểu int;
+Inp, out : màn hình.
+5.inp: từ file, 1 dãy các số nguyên trên 1 dòng, out : file;
+6.inp,out : màn hình, 3 chữ số sau dấu .
+Nộp bài: [mã sv][0101].cpp
+
+int2203@gmail.com

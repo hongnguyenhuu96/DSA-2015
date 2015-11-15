@@ -1,0 +1,49 @@
+Homework week 2
+1.	Given a list of integer numbers in the file “numbers.txt”, read these numbers into an array and do following tasks:
+a.	Calculate the sum of these numbers
+b.	Find the smallest number
+c.	Find the greatest number
+d.	Delete odd numbers from the array
+
+2.	Given a list of integer numbers in the file “numbers.txt”, read these numbers into a linked list and do following tasks:
+a.	empty (A):  check if a list is empty
+b.	length (A):  return the number  elements
+c.	element (A, i) :  return element at position i. 
+d.	insert (A, i, x):  insert element x into position i. 
+e.	append (A, x):  add element x to the end of the list.
+f.	delete (A, i):  delete element  at position i.
+g.	Calculate the sum of these numbers
+h.	Find the smallest number
+i.	Find the greatest number
+j.	Delete odd numbers from the array
+
+
+format
+
+bai 1:
+xuat ra a b c d tuong ung vs 4 dong
+tong
+nn
+mx
+day sau khi xoa
+ xuat ra man hinh
+bai 2:
+input dong 1; day so
+dong 2: so luong thao tac: q
+q dong tiep theo:
+ky tu dau tien la ky tu cua thao tac
+tiep theo la tham so
+
+: vi du e; A thi bo di; c 3; d 5 6
+out: q dong
+moi dong the hien
+a. 0 hoac 1
+b. so la do dai
+c. gia tri vi tri thu i
+d. dua ra ca day so sau khi
+e. dua ra ca day so sau khi
+f. dua ra ds sau khi xoa
+g. tong
+h. so nho nhat
+i. so lon nhat
+j. ghi ra day sau khi xoa

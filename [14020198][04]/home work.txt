@@ -1,0 +1,5 @@
+Homework week 4
+1.	Implement the queue structure operations by array. Calculate the complexity for each operation.
+2.	Implement the queue structure operations by singly linked list. Calculate the complexity for each operation.
+3.	Implement the stack structure operations by array. Calculate the complexity for each operation.
+4.	Implement the stack structure operations by singly linked list. Calculate the complexity for each operation.

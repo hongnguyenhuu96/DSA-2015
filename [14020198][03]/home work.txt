@@ -1,0 +1,19 @@
+Homework week 3
+1. The number of basic operations of algorithms A and B are 8nlogn and 2n2, respectively. Find n0 such that A is better than B with every n>=n0.
+2. Write a C++ program to calculate 2n with a given n value and evaluate the complexity of the algorithm. 
+3. Sort the below functions in the ascending order of O():
+4nlogn + 2n
+nlogn	210
+1	2logn
+2^logn
+3n+100logn
+n	4n
+n	2n
+2^n
+n2 + 10n
+n^2	n3
+n^3	Nlogn
+nlogn
+
+5. Given a list of n numbers. Find a method to determine the maximum and minimum numbers in the list with less than 3n/2 comparisons.
+6.  Given an n*n array containning only 0 and 1 numbers. In every row, the 1 numbers are always before 0 numbers. What is the fastest method to find the row which contains the maximum number of 1?

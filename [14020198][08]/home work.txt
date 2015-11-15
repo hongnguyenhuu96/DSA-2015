@@ -1,0 +1,31 @@
+Homework week 8
+1.	Given n cities and m roads connecting cities.
+The dirty level between two cities u, v is D[u,v] (D[u,v] might be negative).  
+Your task is to write a program to find a path from a starting point s to the end point e
+such that the total dirty level on the path is the smallest.
+
+Input:  Data come from file dirty.txt in the following format:
+-	The first line contains four integer numbers n, m, s, e
+-	m following lines each contains 3 integer numbers u,v, d 
+indicating that the dirty level of road from u to v is d.
+
+Output: Results are written to file “dirty.out” in the following format:
+-	The first line contains the total dirty level of the path
+-	The second line contains cities on the path from s to e.
+// using bellmanFord algorithm
+
+
+2.	Given a computer network of n computers. 
+The cost to connect two computers u and v is D[u,v]>0. 
+If computer u is connected with computer b, and computer b is connected with computer c, 
+we say that computer a is connected with computer c. 
+Your task is to find the minimum cost to connect computers such that all computers are connected.
+
+Input:  Data come from file “connection.txt” as described below:
+-	The first line contains two integer numbers n, m
+-	m following lines each contains 3 integer numbers u, v, d indicating that the cost to connect computer  u and computer v is d.
+
+Output: Results are written to file “connection.out” as described below:
+-	The first line contains the total cost.
+-	Following lines each contains three numbers u, v, d indicating that u and v are connected with the cost d.
+// using kruskal algorithm
